@@ -15,7 +15,7 @@
           cin>>value;
           while(b<=value) {  
             if(b%2==0)
-              sum+=a;
+              sum+=b;
             c=a+b;
             a=b;
             b=c;
