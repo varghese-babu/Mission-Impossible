@@ -4,14 +4,14 @@
      
     int main() {
         ios_base::sync_with_stdio(false); cin.tie(0);
-        int t;
+        ll t;
         char str[1000];
         cin>>t;
         while(t--) {
           
-          int sum=0;
-          int a=1,b=2,c;
-          int value;
+          ll sum=0;
+          ll a=1,b=2,c;
+          ll value;
           cin>>value;
           while(b<=value) {  
             if(b%2==0)
