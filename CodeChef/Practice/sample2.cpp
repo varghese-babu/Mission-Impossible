@@ -10,6 +10,8 @@ int main() {
  
        cin>>n;
        cout<<n*4+1<<endl;
+    
+    
        }
    return 0;
    }
