@@ -12,6 +12,7 @@ int main() {
 		count=0;
 		while(num) {
 			
+			
 			rem=num%10;
 			if(rem==4)
 				count++;
