@@ -10,9 +10,9 @@ int main() {
 		
 		cin>>x>>y>>z;
 		if(x==y+z || y==x+z || z==x+y)
-			cout<<"YES"<<endl;
+			cout<<"yes"<<endl;
 		else
-			cout<<"NO"<<endl;
+			cout<<"no"<<endl;
 		}
 	return 0;
 	}
